@@ -1,0 +1,4 @@
+v1
+{"path":"file:///D:/eth-streaming/data/tx_hist/part-00000-031556a2-7948-49e7-abfd-27382cc0921b-c000.snappy.parquet","size":451444,"isDir":false,"modificationTime":1758006211774,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/eth-streaming/data/tx_hist/part-00001-469dc0ca-671e-4a6a-b658-9e7a6b4f10b1-c000.snappy.parquet","size":456576,"isDir":false,"modificationTime":1758006211774,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/eth-streaming/data/tx_hist/part-00002-fe9af74f-2a6a-45f8-87fe-788aaa84e4e4-c000.snappy.parquet","size":455461,"isDir":false,"modificationTime":1758006211774,"blockReplication":1,"blockSize":33554432,"action":"add"}
